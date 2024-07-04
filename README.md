@@ -62,11 +62,6 @@ This website is integrated with a mock API that provides JSON-formatted location
   "longitude": "-74.005974"
 }
 ```
-## Contact
-Your Name - @vijaysuryabaka
-
-Project Link: https://github.com/vijaysuryabaka/MapRepresentation
-
 ## Acknowledgments
 Leaflet.js - An open-source JavaScript library for mobile-friendly interactive maps.
 MockAPI.io - Service used to simulate online API for testing.
